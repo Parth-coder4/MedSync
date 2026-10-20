@@ -1,0 +1,6 @@
+{
+  "name": "MedSync — Precision Clinical Intelligence & Wearable Telemetry",
+  "description": "AI-powered clinical decision support, offline Levenshtein allergy OCR scanner, live BLE wearable Z-score anomaly detection, 30/60/90-day variance ML stratification, and ABDM FHIR R4 interoperability portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
