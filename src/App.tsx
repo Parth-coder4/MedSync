@@ -146,9 +146,7 @@ const MedSyncPortalShell: React.FC = () => {
           {/* Top Metadata Line: Build With Bharat 2.0 + Live System Status Telemetry */}
           <div className="flex flex-col xl:flex-row xl:items-center justify-between gap-2 pb-3.5 border-b border-slate-800/80 text-xs font-mono">
             <div className="flex flex-wrap items-center gap-2 text-slate-300">
-              <span className="font-semibold text-blue-400">BUILD WITH भारत 2.0</span>
-              <span aria-hidden="true" className="text-slate-600">·</span>
-              <span>Team Robust (JECRC Jaipur)</span>
+              <span className="font-semibold text-blue-400">MedSync Precision Care</span>
               <span aria-hidden="true" className="text-slate-600">·</span>
               <span className="text-slate-400">Doctor &amp; Patient Precision Portal</span>
             </div>
@@ -265,7 +263,7 @@ const MedSyncPortalShell: React.FC = () => {
       <footer className="border-t border-slate-800/80 py-4 px-6 mt-12 text-xs text-slate-500">
         <div className="max-w-[1440px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <div>
-            MedSync Precision Care Platform · Built by Team Robust, JECRC Jaipur
+            MedSync Precision Care Platform · Clinical Intelligence &amp; Bio-Telemetry
           </div>
           <div className="font-mono">
             HL7 FHIR R4 (NRCeS India) · DISHA &amp; DPDP Act 2023 Compliant
